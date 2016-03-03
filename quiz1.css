@@ -1,0 +1,64 @@
+/*header{
+	width:70%;
+	margin:0 auto;
+}*/
+
+/*header img{
+	width:320px;
+	height:87px;
+}*/
+
+/*nav{
+	width:70%;
+	margin:0 auto;
+}*/
+nav ul{
+    list-style-type: none;
+    /*height:60px;*/
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+nav ul li {
+    float: left;
+    display: block;
+    color: white;
+    /*height:60px;*/
+    padding: 15px;
+    font-size:12px;
+    text-align: center;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+
+/* Radian ------------------- */
+article > header > img {
+	width : 100px ;
+}
+article > section > img {
+	width : 100%  ;
+	/*float: left;
+	margin: 10px ;*/
+}
+article > section > p  {
+	color : rgba(150 , 0 ,0 ,1);
+}
+article > footer {
+	color : gray ;
+}
+
+article {
+	width : 70% ;
+	float: left;;
+}
+aside {
+	margin-top: 2%;
+	margin-left: 2% ;
+	width: 28% ;
+	float: left; ;
+}
+body > footer {
+	padding-top: 50px ;
+	clear: both;
+}

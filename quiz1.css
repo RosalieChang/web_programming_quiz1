@@ -2,17 +2,15 @@
 	width:70%;
 	margin:0 auto;
 }*/
-
-/*header img{
-	width:320px;
-	height:87px;
-}*/
-
+header img{
+	width:316px;
+	height:83px;
+}
 /*nav{
 	width:70%;
 	margin:0 auto;
 }*/
-nav ul{
+nav > ul{
     list-style-type: none;
     /*height:60px;*/
     margin: 0;
@@ -20,7 +18,7 @@ nav ul{
     overflow: hidden;
     background-color: #333;
 }
-nav ul li {
+nav > ul > li {
     float: left;
     display: block;
     color: white;
@@ -30,6 +28,10 @@ nav ul li {
     text-align: center;
     text-decoration: none;
     border-right: 1px solid #bbb;
+}
+nav > ul > li > a {
+	color: white;
+    text-decoration: none;
 }
 
 /* Radian ------------------- */

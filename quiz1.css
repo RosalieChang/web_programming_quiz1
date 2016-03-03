@@ -35,9 +35,15 @@ nav > ul > li > a {
 }
 
 /* Radian ------------------- */
+article > header > a {
+	color: black;
+    text-decoration: none;
+}
+
 article > header > img {
 	width : 100px ;
 }
+
 article > section > img {
 	width : 100%  ;
 	/*float: left;

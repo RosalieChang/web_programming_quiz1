@@ -36,12 +36,12 @@ article > header > img {
 	width : 100px ;
 }
 
-article > section > img {
+article > div > img {
 	width : 100%  ;
 	/*float: left;
 	margin: 10px ;*/
 }
-article > section > p {
+article > div > p {
 	color : rgba(150 , 0 ,0 ,1);
 }
 article > footer {

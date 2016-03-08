@@ -1,7 +1,6 @@
 /* ------- Rosalie ------- */
 header > a > img {
-	width:316px;
-	height:83px;
+	margin-bottom:1%;
 }
 nav > ul {
     list-style-type: none;
@@ -9,7 +8,7 @@ nav > ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #222222;
 }
 nav > ul > li {
     float: left;
@@ -27,36 +26,22 @@ nav > ul > li > a {
     text-decoration: none;
 }
 article > header > a {
-	color: black;
     text-decoration: none;
 }
 
 /* ------- Radian ------- */
-article > header > img {
-	width : 100px ;
-}
-
 article > div > img {
 	width : 100%  ;
-	/*float: left;
-	margin: 10px ;*/
 }
-article > div > p {
-	color : rgba(150 , 0 ,0 ,1);
-}
-article > footer {
-	color : gray ;
-}
-
 article {
 	width : 70% ;
 	float: left;;
 }
 aside {
-	margin-top: 2%;
 	margin-left: 2% ;
-	width: 28% ;
+	width: 26% ;
 	float: left; ;
+	padding: 1%;
 }
 body > footer {
 	padding-top: 50px ;
